@@ -4,8 +4,6 @@
 >I want to learn how to use vim<br>
 >I want to learn how to use vim in VS Code
 
-
-## Backstory
 ## Getting Started
 
 - Download and install [Visual Code Studio](https://code.visualstudio.com/)
@@ -20,6 +18,8 @@
     $ defaults write com.microsoft.VSCodeExploration ApplePressAndHoldEnabled -bool false   # For VS Codium Exploration users
     $ defaults delete -g ApplePressAndHoldEnabled      
     ```
+
+## Vim Cheat Sheet
 
 | key        | description                                                                     | notes                                            |
 | ---------- | ------------------------------------------------------------------------------- | ------------------------------------------------ |
